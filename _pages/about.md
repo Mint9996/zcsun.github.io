@@ -31,7 +31,13 @@ I am currently a Research Intern at Xiaohongshu (小红书), Pevek Team (Applied
 
 ## Long-context Language Models
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='/images/iscot.png' alt="IS-CoT" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">ACL 2026</div>
+<img src='/images/iscot.png' alt="IS-CoT" width="100%">
+</div>
+</div>
 <div class='paper-box-text' markdown="1">
 
 **IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking**
@@ -41,6 +47,7 @@ I am currently a Research Intern at Xiaohongshu (小红书), Pevek Team (Applied
 - We are the first to identify the "length collapse" problem in long-form text generation by LLMs, where static planning fails to dynamically guide long-context generation. We propose IS-CoT, a framework that embeds a "plan-write-reflect" cycle into the generation process. The trained IS-Writer-8B outperforms larger models including DeepSeek-V3.2 on long-form benchmarks.
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='/images/cgmis.png' alt="CGMIS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
