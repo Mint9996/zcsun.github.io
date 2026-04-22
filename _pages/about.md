@@ -53,7 +53,7 @@ I am currently a Research Intern at Xiaohongshu (小红书), Pevek Team (Applied
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL</div><img src='images/survey.png' alt="Survey" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TACL</div><img src='images/tacl.png' alt="Survey" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Data Foundations of Long-Context Language Models: A Survey**
@@ -73,7 +73,7 @@ We propose LOGO, an efficient long-context alignment training strategy that sign
 
 ## Shortcut Learning in LLMs & New Architecture Exploration
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/fsli.png' alt="FSLI" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2024</div><img src='images/coling.png' alt="FSLI" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Exploring and Mitigating Shortcut Learning for Generative Large Language Models**](https://aclanthology.org/2024.lrec-main.602/)
