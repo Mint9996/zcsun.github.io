@@ -44,6 +44,8 @@ I am currently a Research Intern at Xiaohongshu (小红书), Pevek Team (Applied
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/cgmis.png' alt="CGMIS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+<img src='images/500x300.png' alt="IS-CoT" width="100%">
+
 
 [**CGMIS: Concept-Graph Based Multi-Hop Instructions Synthesis for Enhancing Long-Context Reasoning**](https://ojs.aaai.org/index.php/AAAI/article/view/40599)
 
