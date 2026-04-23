@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Zechen Sun (孙泽辰)"
-description              : "Ph.D. Student at Soochow University, working on Long-context Language Models and NLP."
-repository               : "Mint9996/Mint9996.github.io"
+description              : "Ph.D Student at Soochow University, working on Long-context Language Models and NLP."
+repository               : "zechensun/zechensun.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
